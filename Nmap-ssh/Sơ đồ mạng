@@ -1,0 +1,4 @@
+
+máy tính (có nmap)         172.24.0.3   172.25.0.3    -----> máy tính (yêu cầu kết nối ssh) 172.25.0.2
+172.24.0.2    ---->switch <----->router<------->    
+                                                      --------> (hint) trong này có 1 kết nối với máy tính khác và mở cổng dịch vụ khác
